@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+*.h5
+*.pth
+*.bin
+*.pt
+.streamlit/
+data/
+tmp/
+*.csv
+*.json
+*.log
+.DS_Store
+Thumbs.db
